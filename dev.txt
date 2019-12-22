@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Dev dummy file
-=======
-Dev branch test
->>>>>>> 3aa6ef5dfb167f04894f1aa2dfc056c54283187e
